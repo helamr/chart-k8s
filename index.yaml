@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  datascientest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-21T18:00:56.605940226Z"
+    description: A Helm chart for Kubernetes
+    digest: f132f915151349043c481b2e074cff84437966a9738ca3dd25f4497762adaaca
+    name: datascientest
+    type: application
+    urls:
+    - https://github.com/helamr/chart-k8s.git/datascientest-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-21T18:00:56.604270542Z"
